@@ -1,0 +1,10 @@
+{
+  "ThresholdX": 4,
+  "ThresholdY": 4,
+  "x_size": 240,
+  "y_size": 240,
+  "x_margin": 0,
+  "y_margin": 0,
+  "X_and_Y": true,
+  "version": "1.0"
+}
